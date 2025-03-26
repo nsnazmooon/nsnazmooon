@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nsnazmoon
 - 👀 I’m interested in Web Development & Programming.
 - 🌱 I’m currently learning MERN Full Stack Web Development.
-- 🎯Target 2024: Full Stack Web Developer.
+- 🎯Target 2025: Full Stack Web Developer.
 - ⚡ Fun fact: I want to learn everything.
 
 <!---
